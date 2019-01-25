@@ -1,0 +1,7 @@
+C:\Users\ahsan\source\repos\TimSort\TimSort\obj\Debug\TimSort.csprojAssemblyReference.cache
+C:\Users\ahsan\source\repos\TimSort\TimSort\obj\Debug\TimSort.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\source\repos\TimSort\TimSort\bin\Debug\TimSort.exe.config
+C:\Users\ahsan\source\repos\TimSort\TimSort\bin\Debug\TimSort.exe
+C:\Users\ahsan\source\repos\TimSort\TimSort\bin\Debug\TimSort.pdb
+C:\Users\ahsan\source\repos\TimSort\TimSort\obj\Debug\TimSort.exe
+C:\Users\ahsan\source\repos\TimSort\TimSort\obj\Debug\TimSort.pdb
